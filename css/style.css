@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+body  {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: x-large;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/wallpaper.jpg);
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
