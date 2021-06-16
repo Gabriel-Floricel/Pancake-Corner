@@ -1,6 +1,6 @@
 # Pancake-Corner
 
-Welcome to one of my first early projects using only HTML+CSS+Bootstrap 5
+Welcome to one of my early projects using only HTML+CSS+Bootstrap 5
 
 The project contains 5 HTML pages: Homepage, Login page, Register page, About page, Menu, and a mock cart icon.
 
